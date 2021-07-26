@@ -8,9 +8,6 @@ button.addEventListener('click', function(){
     h1.innerText = newColor;
 
 
-
-
-
 });
 
 const randomColor = () =>{
